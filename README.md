@@ -1,6 +1,7 @@
 # TheROMZ52
 
 I build things, break them, debug them, and occasionally remember to write documentation.
+
 **Developer | توسعه‌دهنده**
 
 I build software, tools, bots, and web applications, with a particular interest in Minecraft development, automation, and practical developer tools.
