@@ -45,25 +45,43 @@ I'm into building software, bots, websites, Minecraft tools, and experiments tha
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&theme=dark" />
+### LANGUAGES
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,bash&theme=dark" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=nodejs,git,github,linux,windows,android,vscode,mysql,sqlite&theme=dark" />
+### RUNTIMES, FRAMEWORKS & BUILD TOOLS
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,gradle,maven&theme=dark" />
+
+### DATABASES, BACKEND & CLOUD
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,vercel,githubactions&theme=dark" />
+
+### PLATFORMS & DAILY TOOLS
+<img src="https://skillicons.dev/icons?i=android,linux,windows,git,github,vscode&theme=dark" />
 
 </div>
 
 <details>
-<summary><b>⚙️ More about my setup</b></summary>
+<summary><b>🧰 TECHNOLOGY TOOLBOX — WHAT I ACTUALLY USE</b></summary>
 <br/>
 
-| Area | Stack |
+| Category | Technologies |
 |:--|:--|
-| Backend | Node.js, Java, Python |
-| Web | JavaScript, TypeScript, HTML, CSS |
-| Databases | SQLite, MySQL |
-| Platforms | Android, Termux, Linux, Windows |
-| Interests | Minecraft, automation, networking, bots |
+| Languages | Java, JavaScript, TypeScript, Python, HTML, CSS, Bash |
+| Web development | Node.js, Next.js, React, vanilla web technologies, Progressive Web Apps |
+| APIs & networking | REST / HTTP APIs, WebSocket, JSON, LAN services |
+| Databases | SQLite, MySQL, Supabase |
+| Minecraft development | Paper, Fabric, Forge, Bukkit APIs, Mineflayer |
+| Android & computer vision | CameraX, ML Kit Face Detection, MediaPipe, Android Accessibility Services |
+| AI integrations | OpenRouter, model routing, prompt / agent APIs |
+| Build & automation | Gradle, Maven, npm, GitHub Actions |
+| Deployment & hosting | Vercel, self-hosted Node.js services |
+| Environments | Android, Termux, Windows, Linux |
+
+### THINGS I BUILD
+- **Backend systems:** APIs, authentication, sessions, database-backed services, and admin panels.
+- **Minecraft tooling:** server plugins, client-side mods, bots, statistics, and server integrations.
+- **Automation:** chat bots, scheduled workflows, CI builds, and utility scripts.
+- **Web apps:** responsive dashboards, e-commerce, PWA experiences, and real-time interfaces.
+- **AI features:** conversational bots, memory systems, model fallback, and in-game AI assistants.
 
 </details>
 
@@ -236,8 +254,10 @@ Includes ForwardHub, ImageSEOStudio, KootletTools, ZahraNails, imageframe-studio
 ## 05 / CONTRIBUTION GRAPH
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheROMZ52&bg_color=050505&color=bdbdbd&line=888888&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://ghchart.rshah.org/888888/TheROMZ52" alt="TheROMZ52 GitHub contribution graph" width="100%" />
 </div>
+
+<sub>Contribution activity is rendered through ghchart as an alternative to the previous activity-graph endpoint.</sub>
 
 ---
 
