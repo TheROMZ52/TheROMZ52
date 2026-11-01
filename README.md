@@ -138,18 +138,18 @@ A LAN / internet collaboration app with accounts, channels, private browser-encr
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🛡️ <a href="https://github.com/TheROMZ52/kotletland-projects">KootletLand Projects</a></h3>
+<h3>🛡️ <a href="https://github.com/TheROMZ52/kotletland-projects">KotletLand Projects</a></h3>
 <b>Two Minecraft projects under one roof.</b>
 <br/><br/>
-<strong>KootletLandAC:</strong> evidence-based Paper anti-cheat with movement / combat checks, optional GrimAC signals, SQLite / MySQL evidence storage, and an optional Velocity staff-alert bridge. Automatic punishment is off by default.<br/>
-<strong>KootletClient:</strong> a Forge 1.8.9 PvP client with HUD modules, keystrokes, target HUD, custom crosshair, zoom, themes, and a custom main menu.
+<strong>KotletLandAC:</strong> evidence-based Paper anti-cheat with movement / combat checks, optional GrimAC signals, SQLite / MySQL evidence storage, and an optional Velocity staff-alert bridge. Automatic punishment is off by default.<br/>
+<strong>KotletClient:</strong> a Forge 1.8.9 PvP client with HUD modules, keystrokes, target HUD, custom crosshair, zoom, themes, and a custom main menu.
 <br/><br/>
 <sub>Java 21 · Paper 1.21.x · Forge 1.8.9</sub>
 <br/>
 <sub>AC note: detections are staff-review leads; live-player validation is not yet documented.</sub>
 </td>
 <td width="50%" valign="top">
-<h3>🌐 <a href="https://github.com/TheROMZ52/kotletland-site">KootletLand Website</a></h3>
+<h3>🌐 <a href="https://github.com/TheROMZ52/kotletland-site">KotletLand Website</a></h3>
 <b>The web hub for the Minecraft network.</b>
 <br/><br/>
 Live server status, news, rules, store, player accounts, support tickets, notifications, player linking, per-server stats, server registration, and LiteBans history. The site and Minecraft integration share a MySQL database.
@@ -206,7 +206,7 @@ Its own alphabet, pronunciation rules, grammar, and a browser-based translator, 
 <h3>🧪 <a href="https://github.com/TheROMZ52/all-the-dogs">All The Dogs</a></h3>
 <b>A collection of mini-projects and experiments.</b>
 <br/><br/>
-Includes ForwardHub, ImageSEOStudio, KootletTools, ZahraNails, imageframe-studio, a Node.js port scanner, and a Persian join page. Each folder is an independent project or prototype.
+Includes ForwardHub, ImageSEOStudio, KotletTools, ZahraNails, imageframe-studio, a Node.js port scanner, and a Persian join page. Each folder is an independent project or prototype.
 <br/><br/>
 <sub>Mini apps · Web tools · Minecraft utilities</sub>
 </td>
